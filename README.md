@@ -29,53 +29,53 @@ Features
 Commands
 
 Install
-
+```
 zos install python
-
+```
 Multiple packages:
-
+```
 zos install python git wget curl
-
+```
 Remove
-
+```
 zos remove python
-
+```
 Update
-
+```
 zos update
-
+```
 Upgrade
-
+```
 zos upgrade
-
+```
 Search
-
+```
 zos search python
-
+```
 List
-
+```
 zos list
-
+```
 Package Information
-
+```
 zos info python
-
+```
 Owner
-
+```
 zos owner
-
+```
 About
-
+```
 zos about
-
+```
 Version
-
+```
 zos version
-
+```
 Help
-
+```
 zos help
-
+```
 Installation
 
 Clone the repository:
@@ -86,43 +86,43 @@ chmod +x install
 ./install
 ```
 After installation:
-
+```
 zos
-
+```
 Command Examples
 
 Traditional Termux command:
-
-pkg install python
-
+```
+pkg install python 
+```
 ZOS:
-
+```
 zos install python
-
+```
 Traditional update:
-
+```
 pkg update
-
+```
 ZOS:
-
+```
 zos update
-
+```
 Traditional upgrade:
-
+```
 pkg upgrade
-
+```
 ZOS:
-
+```
 zos upgrade
-
+```
 Traditional search:
-
+```
 pkg search python
-
+```
 ZOS:
-
+```
 zos search python
-
+```
 Important
 
 ZOS is a custom interface around the existing Termux package-management backend.
