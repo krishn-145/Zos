@@ -1,6 +1,9 @@
 ZOS
 ---
+<img width="1536" height="1024" alt="163225" src="https://github.com/user-attachments/assets/a7b81f8e-f22a-412c-919c-d8ec1d84e5f0" />
 
+> Zos command pkg and apt install 😭
+> 
 Custom Termux Package Manager Interface
 
 ZOS is a colorful custom command interface for Android Termux.
